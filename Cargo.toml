@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    'day1_report_repair_part1',
+    'day1_report_repair_part2',
+    'day2_password_philosophy_part1',
+    'day2_password_philosophy_part2',
+    'day3_toboggan_trajectory_part1',
+    'day3_toboggan_trajectory_part2',
+]
