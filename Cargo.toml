@@ -8,4 +8,6 @@ members = [
     'day3_toboggan_trajectory_part2',
     'day4_passport_processing_part1',
     'day4_passport_processing_part2',
+    'day5_binary_boarding_part1',
+    'day5_binary_boarding_part2',
 ]
