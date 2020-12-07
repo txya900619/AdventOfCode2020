@@ -10,4 +10,6 @@ members = [
     'day4_passport_processing_part2',
     'day5_binary_boarding_part1',
     'day5_binary_boarding_part2',
+    'day6_custom_customs_part1',
+    'day6_custom_customs_part2',
 ]
