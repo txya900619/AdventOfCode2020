@@ -12,4 +12,6 @@ members = [
     'day5_binary_boarding_part2',
     'day6_custom_customs_part1',
     'day6_custom_customs_part2',
+    'day7_handy_haversacks_part1',
+    'day7_handy_haversacks_part2',
 ]
