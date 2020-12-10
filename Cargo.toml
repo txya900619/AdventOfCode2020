@@ -18,4 +18,6 @@ members = [
     'day8_handheld_halting_part2',
     'day9_encoding_error_part1',
     'day9_encoding_error_part2',
+    'day10_adapter_array_part1',
+    'day10_adapter_array_part2',
 ]
