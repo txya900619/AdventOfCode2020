@@ -20,4 +20,6 @@ members = [
     'day09_encoding_error_part2',
     'day10_adapter_array_part1',
     'day10_adapter_array_part2',
+    'day11_seating_system_part1',
+    'day11_seating_system_part2',
 ]
