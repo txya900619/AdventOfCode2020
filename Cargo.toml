@@ -24,4 +24,6 @@ members = [
     'day11_seating_system_part2',
     'day12_rain_risk_part1',
     'day12_rain_risk_part2',
+    'day13_shuttle_search_part1',
+    'day13_shuttle_search_part2',
 ]
