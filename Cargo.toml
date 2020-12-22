@@ -30,4 +30,6 @@ members = [
     'day14_docking_data_part2',
     'day15_rambunctious_recitation_part1',
     'day15_rambunctious_recitation_part2',
+    'day16_ticket_translation_part1',
+    'day16_ticket_translation_part2',
 ]
