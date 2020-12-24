@@ -34,4 +34,6 @@ members = [
     'day16_ticket_translation_part2',
     'day17_conway_cubes_part1',
     'day17_conway_cubes_part2',
+    'day18_operation_order_part1',
+    'day18_operation_order_part2',
 ]
