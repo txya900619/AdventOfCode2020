@@ -36,4 +36,6 @@ members = [
     'day17_conway_cubes_part2',
     'day18_operation_order_part1',
     'day18_operation_order_part2',
+    'day19_monster_messages_part1',
+    'day19_monster_messages_part2',
 ]
